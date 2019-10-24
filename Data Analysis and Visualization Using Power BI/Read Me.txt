@@ -1,0 +1,3 @@
+Download the Power BI tool.
+
+Upload the CSV file in the Power BI and start to drag and drop the coloums and find the credit card transactions in INDIA.
